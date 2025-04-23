@@ -14,7 +14,7 @@ affiliations:
 
 <body>
   <hr>
-  <img src = "IMG_2444.png" alt = "Example 001" style="display: block; margin: auto;">
+  <img src = "images/IMG_2444.png" alt = "Example 001" style="display: block; margin: auto;">
 </body>
 
 
