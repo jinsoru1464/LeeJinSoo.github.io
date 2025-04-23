@@ -1,3 +1,1 @@
-# SIDL
-**Welcome to the SIDL GitHub!**  
-The GitHub page is currently under construction. We will be back soon with the completed version!
+      GETJOB은 포트폴리오, 자기소개서, 면접까지 챙겨야 할 것들이 많아 막막한 취업준비생들의 고민을 덜어주기 위해 만들어진 웹서비스입니다. 포트폴리오 작성 · 관리부터, AI 기반의 자소서 가이드와 면접 준비까지. GETJOB과 함께 커리어를 완성해보세요!
