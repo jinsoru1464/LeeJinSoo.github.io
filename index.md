@@ -1,6 +1,6 @@
 ---
 layout: project_page
-permalink: /
+permalink: https://afterglow2025.github.io/afterglow2025/
 title: "GetJob"
 presentation: "AfterGlow 2025"
 authors:
@@ -54,7 +54,8 @@ affiliations:
 
 <div class="columns is-centered has-text-centered">
   <div class="column is-four-fifths">
-  <img src = "images/portfolioView2.png" alt = "Example 001" style="display: block; margin: auto;">
+  <img src = "images/dev1_2.png" alt = "Example 001" style="display: block; margin: auto;">
+  <img src = "images/dev2_2.png" alt = "Example 001" style="display: block; margin: auto;">
 <h2>포트폴리오 기록 페이지 (개발자)</h2>
     <hr>
     <div class="content has-text-justified">
@@ -67,7 +68,8 @@ affiliations:
 
 <div class="columns is-centered has-text-centered">
   <div class="column is-four-fifths">
-  <img src = "images/portfolioView2.png" alt = "Example 001" style="display: block; margin: auto;">
+  <img src = "images/designer1_2.png" alt = "Example 001" style="display: block; margin: auto;">
+  <img src = "images/designer2_2.png" alt = "Example 001" style="display: block; margin: auto;">
 <h2>포트폴리오 기록 페이지 (디자이너)</h2>
     <hr>
     <div class="content has-text-justified">
@@ -80,7 +82,8 @@ affiliations:
 
 <div class="columns is-centered has-text-centered">
   <div class="column is-four-fifths">
-  <img src = "images/portfolioView2.png" alt = "Example 001" style="display: block; margin: auto;">
+  <img src = "images/pm1_2.png" alt = "Example 001" style="display: block; margin: auto;">
+  <img src = "images/pm2_2.png" alt = "Example 001" style="display: block; margin: auto;">
 <h2>포트폴리오 기록 페이지 (기획자)</h2>
     <hr>
     <div class="content has-text-justified">
