@@ -1,6 +1,6 @@
 ---
 layout: project_page
-permalink: https://afterglow2025.github.io/afterglow2025/
+permalink: /
 title: "GetJob"
 presentation: "AfterGlow 2025"
 authors:
