@@ -52,6 +52,45 @@ affiliations:
 </div>
 
 
+<div class="columns is-centered has-text-centered">
+  <div class="column is-four-fifths">
+  <img src = "images/portfolioView2.png" alt = "Example 001" style="display: block; margin: auto;">
+<h2>포트폴리오 기록 페이지 (개발자)</h2>
+    <hr>
+    <div class="content has-text-justified">
+      포트폴리오 기록 페이지(개발자)는 숭실대학교 취업센터 컨설턴트와의 상담을 기반으로, 직접 연구하고 고민하여 설계한 맞춤형 질문들을 중심으로 구성되었습니다. 단순한 경험의 나열을 넘어, 사용자의 성장 과정을 효과적으로 드러낼 수 있도록 체계적이고 심도 있게 기획한 점이 특징입니다.
+
+이를 통해 사용자는 자신의 경험을 더욱 입체적으로 조망하고, 스스로의 성장 스토리를 명확하게 정리하는 데 도움을 받을 수 있습니다.
+    </div>
+</div>
+</div>
+
+<div class="columns is-centered has-text-centered">
+  <div class="column is-four-fifths">
+  <img src = "images/portfolioView2.png" alt = "Example 001" style="display: block; margin: auto;">
+<h2>포트폴리오 기록 페이지 (디자이너)</h2>
+    <hr>
+    <div class="content has-text-justified">
+      포트폴리오 기록 페이지(디자이너)는 숭실대학교 취업센터 컨설턴트와의 상담을 기반으로, 직접 연구하고 고민하여 설계한 맞춤형 질문들을 중심으로 구성되었습니다. 단순한 경험의 나열을 넘어, 사용자의 성장 과정을 효과적으로 드러낼 수 있도록 체계적이고 심도 있게 기획한 점이 특징입니다.
+
+이를 통해 사용자는 자신의 경험을 더욱 입체적으로 조망하고, 스스로의 성장 스토리를 명확하게 정리하는 데 도움을 받을 수 있습니다.
+    </div>
+</div>
+</div>
+
+<div class="columns is-centered has-text-centered">
+  <div class="column is-four-fifths">
+  <img src = "images/portfolioView2.png" alt = "Example 001" style="display: block; margin: auto;">
+<h2>포트폴리오 기록 페이지 (기획자)</h2>
+    <hr>
+    <div class="content has-text-justified">
+      포트폴리오 기록 페이지(기획자)는 숭실대학교 취업센터 컨설턴트와의 상담을 기반으로, 직접 연구하고 고민하여 설계한 맞춤형 질문들을 중심으로 구성되었습니다. 단순한 경험의 나열을 넘어, 사용자의 성장 과정을 효과적으로 드러낼 수 있도록 체계적이고 심도 있게 기획한 점이 특징입니다.
+
+이를 통해 사용자는 자신의 경험을 더욱 입체적으로 조망하고, 스스로의 성장 스토리를 명확하게 정리하는 데 도움을 받을 수 있습니다.
+    </div>
+</div>
+</div>
+
 
 
 
