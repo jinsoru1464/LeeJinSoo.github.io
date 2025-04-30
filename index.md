@@ -29,6 +29,8 @@ affiliations:
   </div>
 </div>
 
+<br>
+
 <div class="columns is-centered has-text-centered">
   <div class="column is-four-fifths">
   
@@ -41,6 +43,8 @@ affiliations:
 </div>
 </div>
 
+<br>
+
 <div class="columns is-centered has-text-centered">
   <div class="column is-four-fifths">
   
@@ -52,6 +56,8 @@ affiliations:
     <img src = "images/portfolioView2.png" alt = "Example 001" style="display: block; margin: auto;">
 </div>
 </div>
+
+<br>
 
 
 <div class="columns is-centered has-text-centered">
@@ -69,6 +75,8 @@ affiliations:
 </div>
 </div>
 
+<br>
+
 <div class="columns is-centered has-text-centered">
   <div class="column is-four-fifths">
 
@@ -84,6 +92,8 @@ affiliations:
 </div>
 </div>
 
+
+<br>
 <div class="columns is-centered has-text-centered">
   <div class="column is-four-fifths">
   
@@ -99,9 +109,10 @@ affiliations:
 </div>
 </div>
 
+<br>
+
 <div class="columns is-centered has-text-centered">
-  <div class="column is-four-fifths">
-  
+  <div class="column is-four-fifths"> 
 <h2>AI 자기소개서 교정 기능</h2>
     <hr>
     <div class="content has-text-justified">
@@ -112,6 +123,8 @@ affiliations:
 </div>
 </div>
 
+
+<br>
 <div class="columns is-centered has-text-centered">
   <div class="column is-four-fifths">
 
