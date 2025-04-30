@@ -31,6 +31,7 @@ affiliations:
   </div>
 </div>
 
+<div class="columns is-centered has-text-centered">
 <body>
   <hr>
   <img src = "images/mainpage2.png" alt = "Example 001" style="display: block; margin: auto;">
@@ -40,16 +41,19 @@ affiliations:
     <div class="content has-text-justified">
       GetJob 메인 페이지는 사용자에게 포트폴리오 작성, 자기소개서 교정, 면접 질문 생성 등 다양한 취업 지원 서비스를 한눈에 안내합니다. 심플하고 직관적인 구성으로 누구나 쉽게 서비스를 시작할 수 있도록 기획하였습니다.
     </div>
+</div>
 
+<div class="columns is-centered has-text-centered">
 <body>
   <hr>
-  <img src = "images/mainpage2.png" alt = "Example 001" style="display: block; margin: auto;">
+  <img src = "images/portfolioView2.png" alt = "Example 001" style="display: block; margin: auto;">
 </body>
 <h2>포트폴리오 기록보는 페이지</h2>
     <hr>
     <div class="content has-text-justified">
       작성된 포트폴리오를 한눈에 확인할 수 있는 페이지입니다. 사용자는 자신이 등록한 포트폴리오의 상세 내용을 편리하게 조회할 수 있습니다. 또한, 필요에 따라 포트폴리오 기록을 수정하거나 삭제할 수도 있어 포트폴리오 관리가 더욱 효율적으로 이루어집니다.
     </div>
+</div>
 
 
 
