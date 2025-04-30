@@ -94,6 +94,30 @@ affiliations:
 </div>
 </div>
 
+<div class="columns is-centered has-text-centered">
+  <div class="column is-four-fifths">
+  <img src = "images/pm1_2.png" alt = "Example 001" style="display: block; margin: auto;">
+  <img src = "images/pm2_2.png" alt = "Example 001" style="display: block; margin: auto;">
+<h2>AI 자기소개서 교정 기능</h2>
+    <hr>
+    <div class="content has-text-justified">
+사용자가 입력한 자기소개서를 AI가 정교하게 분석해 자연스럽고 세련된 문장으로 다듬어줍니다. 단순한 문법 수정에 그치지 않고, 어색한 표현과 흐름까지 개선하여, 보다 완성도 높은 자기소개서를 완성할 수 있도록 지원합니다. 글을 매끄럽게 다듬고 싶은 모든 사용자에게 빠르고 신뢰할 수 있는 교정 경험을 제공합니다.
+    </div>
+</div>
+</div>
+
+<div class="columns is-centered has-text-centered">
+  <div class="column is-four-fifths">
+  <img src = "images/pm1_2.png" alt = "Example 001" style="display: block; margin: auto;">
+  <img src = "images/pm2_2.png" alt = "Example 001" style="display: block; margin: auto;">
+<h2>AI 면접 질문 생성 기능</h2>
+    <hr>
+    <div class="content has-text-justified">
+ 사용자의 자기소개서나 포트폴리오 내용을 AI가 분석하여, 지원 분야와 강점을 반영한 예상 면접 질문을 자동으로 생성합니다. 단순한 질문 목록이 아닌, 개인별 특성과 경험을 바탕으로 실제 면접에 가까운 질문을 제공하여, 보다 체계적이고 실전감 있는 면접 준비를 지원합니다.
+    </div>
+</div>
+</div>
+
 
 
 
