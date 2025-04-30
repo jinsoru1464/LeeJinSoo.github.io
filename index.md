@@ -13,8 +13,6 @@ affiliations:
 ---
 
 
-
-
 <!-- Using HTML to center the abstract -->
 <div class="columns is-centered has-text-centered">
   <div class="column is-four-fifths">
@@ -32,7 +30,7 @@ affiliations:
 </div>
 
 <div class="columns is-centered has-text-centered">
-  <hr>
+  <div class="column is-four-fifths">
   <img src = "images/mainpage2.png" alt = "Example 001" style="display: block; margin: auto;">
 <h2>메인페이지</h2>
     <hr>
@@ -42,7 +40,7 @@ affiliations:
 </div>
 
 <div class="columns is-centered has-text-centered">
-  <hr>
+  <div class="column is-four-fifths">
   <img src = "images/portfolioView2.png" alt = "Example 001" style="display: block; margin: auto;">
 <h2>포트폴리오 기록보는 페이지</h2>
     <hr>
