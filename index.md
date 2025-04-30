@@ -32,10 +32,8 @@ affiliations:
 </div>
 
 <div class="columns is-centered has-text-centered">
-<body>
   <hr>
   <img src = "images/mainpage2.png" alt = "Example 001" style="display: block; margin: auto;">
-</body>
 <h2>메인페이지</h2>
     <hr>
     <div class="content has-text-justified">
@@ -44,10 +42,8 @@ affiliations:
 </div>
 
 <div class="columns is-centered has-text-centered">
-<body>
   <hr>
   <img src = "images/portfolioView2.png" alt = "Example 001" style="display: block; margin: auto;">
-</body>
 <h2>포트폴리오 기록보는 페이지</h2>
     <hr>
     <div class="content has-text-justified">
