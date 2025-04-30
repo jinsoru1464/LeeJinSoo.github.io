@@ -38,7 +38,7 @@ affiliations:
 
 ### Citation
 <pre><code class="language-bibtex">
-@inproceedings{choi2025sidl,
+@inproceedings{
   title     = {GetJob},
   author    = {Park, Jinwoo and Eom, Yeonsoo and Lee, Jinsol},
   year      = {2025}
