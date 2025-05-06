@@ -5,8 +5,8 @@ title: "GetJob"
 presentation: "AfterGlow 2025"
 authors:
   - 박진우
-  - *엄연수
-  - *이진솔
+  - 엄연수
+  - 이진솔
 affiliations:
   - Soongsil University
 
@@ -136,6 +136,18 @@ affiliations:
       <img src = "images/aiInterview2.png" alt = "Example 001" style="display: block; margin: auto;">
 </div>
 </div>
+
+<!-- 이미지 확대용 모달 -->
+<div id="image-modal" class="modal">
+  <div class="modal-background"></div>
+  <div class="modal-content">
+    <p class="image">
+      <img id="modal-image" src="" alt="확대 이미지">
+    </p>
+  </div>
+  <button class="modal-close is-large" aria-label="close"></button>
+</div>
+
 
 
 
