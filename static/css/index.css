@@ -155,3 +155,11 @@ body {
 #interpolation-image-wrapper img {
   border-radius: 5px;
 }
+
+
+#modal-image {
+  max-height: 90vh;
+  max-width: 90vw;
+  border-radius: 10px;
+}
+
