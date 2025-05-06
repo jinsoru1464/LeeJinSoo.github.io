@@ -53,4 +53,17 @@ $(document).ready(function() {
 
     bulmaSlider.attach();
 
+
+	// 이미지 클릭 확대 기능
+$(".clickable-image").click(function () {
+  const modal = $("#image-modal");
+  const modalImg = $("#modal-image");
+  modalImg.attr("src", $(this).attr("src"));
+  modal.addClass("is-active");
+});
+
+$(".modal-close, .modal-background").click(function () {
+  $("#image-modal").removeClass("is-active");
+});
+
 })
