@@ -9,11 +9,11 @@ affiliations:
 
 
 ---
-
+<hr>
 <p style="text-align: center; font-size: 2rem; margin-top: 2rem;">
   <a href="https://getjob.world" target="_blank" title="사이트로 이동">🌐GetJob 서비스 바로가기</a>
 </p>
-<hr>
+
 <div class="columns is-centered has-text-centered">
   <div class="column is-four-fifths">
     <img src="images/GETJOB.png" class="clickable-image" style="display: block; margin: auto;">
