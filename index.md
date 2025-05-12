@@ -4,15 +4,15 @@ permalink: /
 title: "GetJob"
 presentation: "AfterGlow 2025"
 authors:
-  - 박진우
-  - _엄연수
-  - _이진솔
+  - 박진우*
+  - ,엄연수*
+  - ,이진솔
 affiliations:
   - Soongsil University
 
 ---
 
-
+ <img src = "images/GETJOB.png" class="clickable-image" alt = "Example 001" style="display: block; margin: auto;">
 <!-- Using HTML to center the abstract -->
 <div class="columns is-centered has-text-centered">
   <div class="column is-four-fifths">
