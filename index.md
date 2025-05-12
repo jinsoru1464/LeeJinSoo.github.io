@@ -8,9 +8,7 @@ affiliations:
   - Soongsil University
 
 ---
-<div>
-  <hr>
-</div>
+
 
 <!-- Using HTML to center the abstract -->
 <div class="columns is-centered has-text-centered">
