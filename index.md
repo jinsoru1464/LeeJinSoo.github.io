@@ -3,13 +3,13 @@ layout: project_page
 permalink: /
 title: "GetJob"
 presentation: "AfterGlow 2025"
-authors: "박진우*,   엄연수*,   이진솔*"
+authors: "박진우*,   엄연수*,   이진솔"
 affiliations:
   - Soongsil University
 
 ---
 <hr>
-<div>
+<div class="columns is-centered has-text-centered">
 <img src = "images/GETJOB.png" class="clickable-image" alt = "Example 001" style="display: block; margin: auto;">
   <br>
 </div>
