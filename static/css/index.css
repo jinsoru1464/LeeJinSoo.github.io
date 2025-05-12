@@ -163,9 +163,7 @@ body {
   transition: transform 0.3s ease;
 }
 
-#modal-image:hover {
-  transform: scale(1.5);
-}
+
 
 
 
