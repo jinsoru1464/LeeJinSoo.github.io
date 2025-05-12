@@ -8,8 +8,10 @@ affiliations:
   - Soongsil University
 
 ---
+<hr>
 <div>
 <img src = "images/GETJOB.png" class="clickable-image" alt = "Example 001" style="display: block; margin: auto;">
+  <br>
 </div>
 
 <!-- Using HTML to center the abstract -->
