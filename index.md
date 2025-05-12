@@ -1,9 +1,9 @@
 
 <!-- 깔끔한 헤더 블럭 -->
 <div style="text-align: center; margin-top: 2rem; margin-bottom: 2rem;">
-  <h1 style="font-size: 2.2rem; font-weight: bold;">GetJob</h1>
+  <h1 style="font-size: 3rem; font-weight: bold;">GetJob</h1>
   <p style="font-size: 1.15rem; margin: 0.5rem 0;">AI 기반 IT 직군 취업 지원 플랫폼</p>
-  <p style="color: #666; margin-bottom: 1rem;">AfterGlow 2025 전시 작품 · Soongsil University</p>
+  <p style="color: #666; margin-bottom: 1rem;">AfterGlow 2025 · Soongsil University</p>
   
   <p style="margin-bottom: 1rem;">
     👨‍💻 <strong>Authors:</strong> 박진우, 엄연수, 이진솔
