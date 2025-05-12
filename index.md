@@ -8,8 +8,10 @@ affiliations:
   - Soongsil University
 
 ---
+<div>
+  <hr>
+</div>
 
-<hr>
 <!-- Using HTML to center the abstract -->
 <div class="columns is-centered has-text-centered">
    <img src = "images/GETJOB.png" class="clickable-image" alt = "Example 001" style="display: block; margin: auto;">
@@ -145,6 +147,27 @@ affiliations:
   </div>
   <button class="modal-close is-large" aria-label="close"></button>
 </div>
+
+
+<!-- jQuery 라이브러리 추가 -->
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+<!-- 이미지 클릭 시 모달 표시 -->
+<script>
+  $(document).ready(function() {
+    $(".clickable-image").click(function () {
+      const modal = $("#image-modal");
+      const modalImg = $("#modal-image");
+      modalImg.attr("src", $(this).attr("src"));
+      modal.addClass("is-active");
+    });
+
+    $(".modal-close, .modal-background").click(function () {
+      $("#image-modal").removeClass("is-active");
+    });
+  });
+</script>
+
 
 
 
