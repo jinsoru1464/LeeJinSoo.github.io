@@ -12,9 +12,8 @@ affiliations:
   <a href="https://getjob.world" target="_blank" class="button is-link is-medium is-rounded">
     🌐 GetJob 바로가기
   </a>
-  <br>
 </div>
-
+  <br>
 
 <div class="columns is-centered has-text-centered">
   <div class="column is-four-fifths">
