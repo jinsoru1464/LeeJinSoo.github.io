@@ -1,8 +1,8 @@
 # Site settings
-title: SIDL
-description: A Real-World Dataset for Restoring Smartphone Images with Dirty Lenses
-baseurl: ""  # organization.github.io를 사용할 경우
-url: ""  # 만든 organization 이름으로 수정
+title: GetJob
+description: AI 기반 IT 직군 취업 지원 플랫폼
+baseurl: ""
+url: "https://jinsoru1464.github.io"
 
 # Build settings
 markdown: kramdown
@@ -10,22 +10,17 @@ permalink: /:title/
 
 # Author Settings
 author:
-  name: JinWoo Park, YeonSoo Eom, JinSol Lee
+  name: JinSol Lee, JinWoo Park, YeonSoo Eom
   affiliation: Soongsil University
-  email: hwkim@ssu.ac.kr
+  email: ""
 
-# # Project Settings
-# project:
-#   paper_url: https://arxiv.org/abs/your-paper
-#   code_url: https://github.com/sidl-dataset/SIDL
-#   dataset_url: your-dataset-url
+# Social Links
+social:
+  github: https://github.com/jinsoru1464/GetJob
+  website: https://getjob.world
 
-# # Social Links
-# social:
-#   github: https://github.com/sidl-dataset
-
-# Analytics
-google_analytics: # your google analytics id
+# Analytics (원하면)
+# google_analytics: G-XXXXXXXXXX
 
 # Exclude from processing
 exclude:
