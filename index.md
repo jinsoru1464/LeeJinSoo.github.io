@@ -1,12 +1,4 @@
----
-layout: project_page
-permalink: /
-title: "GetJob"
-presentation: "AfterGlow 2025"
-authors: "박진우,   엄연수,   이진솔"
-affiliations:
-  - Soongsil University
----
+
 <!-- 깔끔한 헤더 블럭 -->
 <div style="text-align: center; margin-top: 2rem; margin-bottom: 2rem;">
   <h1 style="font-size: 2.2rem; font-weight: bold;">GetJob</h1>
