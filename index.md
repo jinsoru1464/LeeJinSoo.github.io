@@ -9,9 +9,10 @@ affiliations:
 
 ---
 
- <img src = "images/GETJOB.png" class="clickable-image" alt = "Example 001" style="display: block; margin: auto;">
+
 <!-- Using HTML to center the abstract -->
 <div class="columns is-centered has-text-centered">
+   <img src = "images/GETJOB.png" class="clickable-image" alt = "Example 001" style="display: block; margin: auto;">
   <div class="column is-four-fifths">
     <h2>작품소개</h2>
     <hr>
