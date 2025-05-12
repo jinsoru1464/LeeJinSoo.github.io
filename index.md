@@ -9,7 +9,7 @@ affiliations:
 
 ---
 
-
+<hr>
 <!-- Using HTML to center the abstract -->
 <div class="columns is-centered has-text-centered">
    <img src = "images/GETJOB.png" class="clickable-image" alt = "Example 001" style="display: block; margin: auto;">
