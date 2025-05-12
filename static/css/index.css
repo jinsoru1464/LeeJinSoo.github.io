@@ -157,12 +157,14 @@ body {
 }
 
 #modal-image {
-  max-height: 95vh;
-  max-width: 95vw;
-  transform: scale(1.2); /* 확대 효과 */
-  transition: transform 0.3s ease;
+  max-height: 90vh;
+  max-width: 90vw;
   border-radius: 10px;
-  object-fit: contain;
+  transition: transform 0.3s ease;
+}
+
+#modal-image:hover {
+  transform: scale(1.5);
 }
 
 
