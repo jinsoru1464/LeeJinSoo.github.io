@@ -6,14 +6,13 @@ presentation: "AfterGlow 2025"
 authors: "박진우,   엄연수,   이진솔"
 affiliations:
   - Soongsil University
-
-
 ---
 <hr>
 <div style="text-align: center; margin-top: 2rem;">
   <a href="https://getjob.world" target="_blank" class="button is-link is-medium is-rounded">
-    🌐 GetJob 서비스 바로가기
+    🌐 GetJob 바로가기
   </a>
+  <br>
 </div>
 
 
