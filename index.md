@@ -8,12 +8,12 @@ affiliations:
   - Soongsil University
 ---
 <hr>
-<div style="text-align: center; margin-top: 2rem;">
+<!-- <div style="text-align: center; margin-top: 2rem;">
   <a href="https://getjob.world" target="_blank" class="button is-link is-medium is-rounded">
     🌐 GetJob 바로가기
   </a>
 </div>
-  <br>
+  <br> -->
 
 <div class="columns is-centered has-text-centered">
   <div class="column is-four-fifths">
